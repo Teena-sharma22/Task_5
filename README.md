@@ -9,6 +9,9 @@ o	Features included (Age, Sex, Pclass, Embarked, Fare, etc.)
 o	Mention missing data issues (Age, Cabin, Embarked)
 
 ## Files 
+
 > [Dataset](Titanic-Dataset.csv)
+
 > [Jupyter Notebook File](Titanic(1).ipynb)
-> [PDF report of findings](task_5_pdf.)
+
+> [PDF report of findings](task_5_pdf.docx)
